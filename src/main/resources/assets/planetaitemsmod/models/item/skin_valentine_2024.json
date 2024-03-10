@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "planetaitemsmod:item/random/skin_valentine_2024"
+  }
+}
